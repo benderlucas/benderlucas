@@ -8,7 +8,7 @@ Eu sou o Lucas Bender, mas pode chamar só de Bender. Sou formado em Design Digi
 
 Você pode me encontrar em outros locais pelos links abaixo:
 
-<a href="https://www.linkedin.com/in/benderlucas/" target="_blank">
+<a href="https://www.linkedin.com/in/benderlucas/" target="_blank"/>
   <img src="https://raw.githubusercontent.com/benderlucas/benderlucas/main/assets/linkedin.svg" width="21px"  alt="Lucas Bender | LinkedIn" align="left" />
 </a>
 
