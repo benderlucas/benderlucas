@@ -25,5 +25,5 @@ Você pode me encontrar em outros locais pelos links abaixo:
 </a>
 
 <a href="https://lucasbender.itch.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/benderlucas/benderlucas/main/assets/itch.svg" width="21px"  alt="Lucas Bender | itch.io" align="left" />
+  <img src="https://raw.githubusercontent.com/benderlucas/benderlucas/main/assets/itch.svg?example=foo&sanitize=true" width="21px"  alt="Lucas Bender | itch.io" align="left" />
 </a>
