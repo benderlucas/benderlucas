@@ -2,7 +2,7 @@
 
 <br />
 
-Eu sou o Lucas Bender, mas pode chamar só de Bender. Sou formado em Design Digital pela Universidade Federal de Pelotas, e me interesso bastante por desenvolvimento de jogos, especialmente em Unity. Já trabalhei por alguns anos com Realidade Virtual e Aumentada, sempre usando C#, além de exercitar minha paixão por modelagem 3D e game design junto a essas tecnologias. Atualmente trabalho como Product Owner, e criei essa perfil no Github para colocar alguns projetos de Unity que sigo fazendo por conta própria nas horas vagas.
+Eu sou o Lucas Bender, mas pode chamar só de Bender. Sou formado em Design Digital pela Universidade Federal de Pelotas, e me interesso bastante por desenvolvimento de jogos, especialmente em Unity. Já trabalhei por alguns anos com Realidade Virtual e Aumentada, sempre usando C#, além de exercitar minha paixão por modelagem 3D e game design junto a essas tecnologias. Atualmente trabalho como Tech Artist na Venturion, uma empresa focada em projetos em VR e que faz parte do grupo Tapps.
 
 <br />
 
